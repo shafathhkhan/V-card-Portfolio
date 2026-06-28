@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio showcasing my experience, skills, and AI projects. Built with HTML, CSS, and JavaScript, the portfolio highlights my work in Generative AI, Agentic AI, backend development, and cloud-native applications.
 <p align="center">
-<a href="https://your-portfolio-url.com">
+<a href="[https://github.com/shafathhkhan/V-card-Portfolio">
     <img src="./assets/images/portfolio-home.png" width="900">
 </a>
 </p>
